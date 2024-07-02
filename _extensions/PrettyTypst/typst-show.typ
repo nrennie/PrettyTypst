@@ -1,4 +1,4 @@
-#show: PrettyPDF.with(
+#show: PrettyTypst.with(
 $if(title)$
   title: "$title$",
 $endif$

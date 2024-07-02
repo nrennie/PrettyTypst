@@ -1,7 +1,7 @@
 
-#let PrettyPDF(
+#let PrettyTypst(
   // The document title.
-  title: "PrettyPDF",
+  title: "PrettyTypst",
 
   // Logo in top right corner.
   typst-logo: none,

@@ -12,10 +12,10 @@ contributes:
         x: 2cm
         y: 2cm
       font-paths: Ubuntu
-      typst-logo: 
-        path: "logo.png"
       template-partials:
         - typst-template.typ
         - typst-show.typ
       filters:
         - PrettyTypst.lua
+      format-resources:
+        - logo.png

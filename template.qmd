@@ -1,5 +1,7 @@
 ---
 title: "Pretty PDFs with Quarto"
+typst-logo: 
+  path: "logo.png"
 format: PrettyTypst-typst
 ---
 
