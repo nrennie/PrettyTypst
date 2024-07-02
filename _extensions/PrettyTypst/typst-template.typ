@@ -51,7 +51,7 @@
     column-gutter: 2.5cm,
 
     // Title.
-    text(font: "Ubuntu", 20pt, weight: 800, upper(title)),
+    pad(bottom: 1cm, text(font: "Ubuntu", 20pt, weight: 800, upper(title))),
 
     // The logo in the sidebar.
     locate(loc => {
