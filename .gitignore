@@ -6,3 +6,5 @@ nul
 *.Rproj
 template.pdf
 logo.png
+
+/.luarc.json
